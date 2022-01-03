@@ -25,5 +25,6 @@ hs_err_pid*
 .idea*
 
 exercise1/target/*
-target/*
+exercise2/target/*
+exercise3/target/*
 *.iml
